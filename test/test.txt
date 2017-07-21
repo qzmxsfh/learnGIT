@@ -3,4 +3,5 @@ test develop
 
 now, it is merged
 
-ֻ�ύtest
+all will be commit
+
